@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>negotiator.parties.BoulwareNegotiationParty</agentname>
+        <totalUndiscountedUtility>2.2195241035969735</totalUndiscountedUtility>
+        <totalDiscountedUtility>2.2195241035969735</totalDiscountedUtility>
+        <numberOfSessions>3</numberOfSessions>
+        <totalNashDist>0.6078010783371682</totalNashDist>
+        <totalWelfare>4.44720586244175</totalWelfare>
+        <totalParetoDistance>0.4192127385812183</totalParetoDistance>
+        <meanDiscounted>0.7398413678656578</meanDiscounted>
+        <meanNashDistance>0.20260035944572274</meanNashDistance>
+        <meanParetoDistance>0.13973757952707277</meanParetoDistance>
+        <meanUndiscounted>0.7398413678656578</meanUndiscounted>
+        <meanWelfare>1.4824019541472502</meanWelfare>
+    </statistics>
+</agentsStatistics>

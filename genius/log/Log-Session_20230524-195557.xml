@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed May 24 19:55:57 CEST 2023" timeOfAgreement="0.5737704918032787" lastAction="(Accept  bid:Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price])" domain="etc/templates/ItexvsCypressDomain/ItexvsCypress_domain.xml" bids="69" runtime="0.0390338" finalOutcome="Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price]" startingAgent="BoulwareNegotiationParty@34" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@34" agentDesc="Time-based agent" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9267509971782172" finalUtility="0.9267509971782172" discountedUtility="0.9267509971782172" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@35" agentDesc="Time-based conceder" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.30725752490588765" finalUtility="0.30725752490588765" discountedUtility="0.30725752490588765" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

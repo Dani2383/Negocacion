@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of TitForTatAgent@19:java.lang.NullPointerException: null" currentTime="Thu Apr 13 20:38:48 CEST 2023" lastAction="(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" bids="1" runtime="0.002954" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

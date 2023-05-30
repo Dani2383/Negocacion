@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>TitForTatAgent</agentname>
+        <totalUndiscountedUtility>5.1709362915989265</totalUndiscountedUtility>
+        <totalDiscountedUtility>4.741998487355408</totalDiscountedUtility>
+        <numberOfSessions>12</numberOfSessions>
+        <totalNashDist>3.6285665466425927</totalNashDist>
+        <totalWelfare>10.009239333418032</totalWelfare>
+        <totalParetoDistance>3.161153415791673</totalParetoDistance>
+        <meanDiscounted>0.3951665406129507</meanDiscounted>
+        <meanNashDistance>0.3023805455535494</meanNashDistance>
+        <meanParetoDistance>0.2634294513159728</meanParetoDistance>
+        <meanUndiscounted>0.4309113576332439</meanUndiscounted>
+        <meanWelfare>0.834103277784836</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.TimeDependentAgentLinear</agentname>
+        <totalUndiscountedUtility>10.874356581209637</totalUndiscountedUtility>
+        <totalDiscountedUtility>9.710479836315574</totalDiscountedUtility>
+        <numberOfSessions>12</numberOfSessions>
+        <totalNashDist>1.0347440590106045</totalNashDist>
+        <totalWelfare>18.89571731392393</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.8092066530262979</meanDiscounted>
+        <meanNashDistance>0.08622867158421704</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.9061963817674697</meanUndiscounted>
+        <meanWelfare>1.574643109493661</meanWelfare>
+    </statistics>
+</agentsStatistics>

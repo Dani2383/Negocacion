@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed May 24 19:56:18 CEST 2023" timeOfAgreement="0.18032786885245902" lastAction="(Accept  bid:Bid[a: a1, b: b1])" domain="etc/templates/ANAC2016/Farma/DomainTwF.xml" bids="21" runtime="0.013445" finalOutcome="Bid[a: a1, b: b1]" startingAgent="BoulwareNegotiationParty@36" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@36" agentDesc="Time-based agent" utilspace="etc/templates/ANAC2016/Farma/DomainTwF_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7480940984899391" finalUtility="1.0" discountedUtility="0.7480940984899391" discount="0.2" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@37" agentDesc="Time-based conceder" utilspace="etc/templates/ANAC2016/Farma/DomainTwF_util2.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.454841211881883" finalUtility="0.608" discountedUtility="0.454841211881883" discount="0.2" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

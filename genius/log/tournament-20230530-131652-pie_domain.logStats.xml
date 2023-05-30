@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <totalUndiscountedUtility>0.378</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.378</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.1725340546095176</totalNashDist>
+        <totalWelfare>1.0</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.378</meanDiscounted>
+        <meanNashDistance>0.1725340546095176</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.378</meanUndiscounted>
+        <meanWelfare>1.0</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.BayesianAgent</agentname>
+        <totalUndiscountedUtility>1.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>1.0</totalDiscountedUtility>
+        <numberOfSessions>3</numberOfSessions>
+        <totalNashDist>2.121320343559643</totalNashDist>
+        <totalWelfare>1.0</totalWelfare>
+        <totalParetoDistance>1.4142135623730951</totalParetoDistance>
+        <meanDiscounted>0.3333333333333333</meanDiscounted>
+        <meanNashDistance>0.7071067811865476</meanNashDistance>
+        <meanParetoDistance>0.47140452079103173</meanParetoDistance>
+        <meanUndiscounted>0.3333333333333333</meanUndiscounted>
+        <meanWelfare>0.3333333333333333</meanWelfare>
+    </statistics>
+</agentsStatistics>

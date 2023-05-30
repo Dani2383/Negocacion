@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed May 24 13:20:58 CEST 2023" lastAction="(Offer  bid:Bid[Pie: a846])" domain="etc/templates/pie/pie_domain.xml" bids="120" runtime="0.2171862" finalOutcome="-" startingAgent="boa-negotiator.boaframework.offeringstrategy.anac2010.AgentFSEGA_Offering-negotiator.boaframework.acceptanceconditions.anac2012.AC_AgentLG-negotiator.boaframework.opponentmodel.CUHKFrequencyModelV2-negotiator.boaframework.omstrategy.TheFawkes_OMS@26" deadline="60rounds">
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.anac2010.AgentFSEGA_Offering-negotiator.boaframework.acceptanceconditions.anac2012.AC_AgentLG-negotiator.boaframework.opponentmodel.CUHKFrequencyModelV2-negotiator.boaframework.omstrategy.TheFawkes_OMS@26" agentDesc="BOA(2012 - AgentLG,2010 - AgentFSEGA,CUHK Frequency Model V2,TheFawkes)" utilspace="etc/templates/pie/pie_A.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@27" agentDesc="Time-based agent" utilspace="etc/templates/pie/pie_B.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

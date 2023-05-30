@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><multilateralTournamentsConfiguration>
+	<tournaments>
+		<tournament>
+			<deadline>
+				<value>300</value>
+				<type>ROUND</type>
+			</deadline>
+			<protocolItem hasMediatorProfile="false" hasMediator="false" description="Each agents makes offer, counter-offer, or accepts" classPath="genius.core.protocol.StackedAlternatingOffersProtocol" protocolName="Stacked Alternating Offers Protocol for Multi-Lateral Negotiation (SAOPMN)"/>
+			<partyRepItems>
+				
+			<party classPath="agents.BayesianAgent"/><boaparty partyName="party0">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="negotiator.boaframework.offeringstrategy.anac2010.Yushu_Offering"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_NiceTitForTat"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <item classpath="negotiator.boaframework.opponentmodel.AgentXFrequencyModel"/>
+        </opponentModel>
+        <omStrategy>
+            <item classpath="negotiator.boaframework.omstrategy.TheFawkes_OMS"/>
+        </omStrategy>
+    </boaparty></partyRepItems>
+			<partyProfileItems>
+
+			<item url="file:etc/templates/ANAC2016/Maxoops/WindFarm_util1.xml"/><item url="file:etc/templates/ANAC2016/Maxoops/WindFarm_util2.xml"/></partyProfileItems>
+			<repeats>10</repeats>
+			<numberOfPartiesPerSession>2</numberOfPartiesPerSession>
+			<repetitionAllowed>false</repetitionAllowed>
+			<persistentDataType>DISABLED</persistentDataType>
+		</tournament>
+
+
+	</tournaments>
+</multilateralTournamentsConfiguration>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sun Apr 16 18:56:26 CEST 2023" timeOfAgreement="0.03278688524590164" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 20'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="2" runtime="0.0094279" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 20'' LCD]" startingAgent="TitForTatAgentTB@0" deadline="60rounds">
+<resultsOfAgent agent="TitForTatAgentTB@0" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.8577687229264045" finalUtility="0.882213997554383" discountedUtility="0.8577687229264045" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgentTB@1" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.6482275738861749" finalUtility="0.6667012027811694" discountedUtility="0.6482275738861749" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

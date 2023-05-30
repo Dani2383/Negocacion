@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed May 24 19:56:50 CEST 2023" timeOfAgreement="0.4918032786885246" lastAction="(Accept  bid:Bid[Price: 0-10 cent, Amount: 150-200 kw, Time: 06-12])" domain="etc/templates/ANAC2016/Caduceus/Smart_Grid.xml" bids="58" runtime="0.0367078" finalOutcome="Bid[Price: 0-10 cent, Amount: 150-200 kw, Time: 06-12]" startingAgent="BoulwareNegotiationParty@40" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@40" agentDesc="Time-based agent" utilspace="etc/templates/ANAC2016/Caduceus/Smart_Grid_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@41" agentDesc="Time-based conceder" utilspace="etc/templates/ANAC2016/Caduceus/Smart_Grid_util2.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.33333333333333326" finalUtility="0.33333333333333326" discountedUtility="0.33333333333333326" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

@@ -1,0 +1,11 @@
+1,1,0.01639344262295082,TitForTatAgentTB@6,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+1,2,0.01639344262295082,TimeDependentAgentConceder@7,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+2,1,0.03278688524590164,TitForTatAgentTB@6,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+2,2,0.03278688524590164,TimeDependentAgentConceder@7,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 120 Gb, External Monitor: 19'' LCD])
+3,1,0.04918032786885246,TitForTatAgentTB@6,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+3,2,0.04918032786885246,TimeDependentAgentConceder@7,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 20'' LCD])
+4,1,0.06557377049180328,TitForTatAgentTB@6,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+4,2,0.06557377049180328,TimeDependentAgentConceder@7,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 20'' LCD])
+5,1,0.08196721311475409,TitForTatAgentTB@6,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+5,2,0.08196721311475409,TimeDependentAgentConceder@7,(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+agreement,Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD],1.0,0.8151053951696905

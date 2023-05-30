@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of SimpleAgent@1:java.lang.NullPointerException: null" currentTime="Sun May 28 17:13:19 CEST 2023" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Ballroom, Invitations: Custom, Handmade, Music: Band, Cleanup: Water and Soap])" bids="3" runtime="0.0141069" deadline="60rounds">
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.anac2010.AgentK_Offering-negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK-C..Users.DANIEL.Desktop.Universidad.Master.NARC.negociacion.out.production.negociacion.es.upv.opponentmodel.SimpleFrequencyModel-negotiator.boaframework.omstrategy.NTFTstrategy" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="BoaPartyRepItem[newParty,BOA[boa(negotiator.boaframework.offeringstrategy.anac2010.AgentK_Offering),[]],BOA[boa(negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK),[]],BOA[boa(C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\es\upv\opponentmodel\SimpleFrequencyModel.class),[]],BOA[boa(negotiator.boaframework.omstrategy.NTFTstrategy),[]]]" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SimpleAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.SimpleAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

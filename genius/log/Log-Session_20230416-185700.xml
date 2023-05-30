@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sun Apr 16 18:57:00 CEST 2023" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="120" runtime="0.0675132" finalOutcome="-" startingAgent="TitForTatAgentTB@4" deadline="60rounds">
+<resultsOfAgent agent="TitForTatAgentTB@4" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgentTB@5" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

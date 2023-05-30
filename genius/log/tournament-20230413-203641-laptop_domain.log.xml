@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of TitForTatAgent@1:java.lang.NullPointerException: null" currentTime="Thu Apr 13 20:36:41 CEST 2023" lastAction="(Offer  bid:Bid[Laptop: Dell, Harddisk: 60 Gb, External Monitor: 19'' LCD])" bids="1" runtime="0.0131032" deadline="180rounds">
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of TitForTatAgent@3:java.lang.NullPointerException: null" currentTime="Thu Apr 13 20:36:41 CEST 2023" lastAction="(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" bids="1" runtime="0.0051128" deadline="180rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Thu Apr 13 20:36:41 CEST 2023" timeOfAgreement="0.011049723756906077" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="2" runtime="0.0034832" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TitForTatAgent@4" deadline="180rounds">
+<resultsOfAgent agent="TitForTatAgent@4" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="TitForTatAgent" userUtility="0.8074226084554977" finalUtility="0.8151053951696905" discountedUtility="0.8074226084554977" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@5" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9905744867354321" finalUtility="1.0" discountedUtility="0.9905744867354321" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Thu Apr 13 20:36:41 CEST 2023" timeOfAgreement="0.7237569060773481" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="260" runtime="0.074353" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@6" deadline="180rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@6" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4700359237837386" finalUtility="0.874024298478376" discountedUtility="0.4700359237837386" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@7" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.47003592378373854" finalUtility="0.8740242984783759" discountedUtility="0.47003592378373854" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of TitForTatAgent@9:java.lang.NullPointerException: null" currentTime="Thu Apr 13 20:36:41 CEST 2023" lastAction="(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" bids="1" runtime="0.0040203" deadline="180rounds">
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of TitForTatAgent@11:java.lang.NullPointerException: null" currentTime="Thu Apr 13 20:36:41 CEST 2023" lastAction="(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" bids="1" runtime="0.0030357" deadline="180rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="C:\Users\DANIEL\Desktop\Universidad\Master\NARC\negociacion\out\production\negociacion\TitForTatAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="0.42441038">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Thu Apr 13 20:36:41 CEST 2023" timeOfAgreement="0.0055248618784530384" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="1" runtime="0.0011083" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="TitForTatAgent@12" deadline="180rounds">
+<resultsOfAgent agent="TitForTatAgent@12" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="TitForTatAgent" userUtility="0.8112549071247956" finalUtility="0.8151053951696905" discountedUtility="0.8112549071247956" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@13" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.9952760856844859" finalUtility="1.0" discountedUtility="0.9952760856844859" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Thu Apr 13 20:36:42 CEST 2023" timeOfAgreement="0.7237569060773481" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="260" runtime="0.069663" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="TimeDependentAgentBoulware@14" deadline="180rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@14" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.4700359237837386" finalUtility="0.874024298478376" discountedUtility="0.4700359237837386" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@15" agentDesc="reluctant to concede" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.47003592378373854" finalUtility="0.8740242984783759" discountedUtility="0.47003592378373854" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

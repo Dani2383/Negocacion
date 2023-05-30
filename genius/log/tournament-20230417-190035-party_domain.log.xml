@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Mon Apr 17 19:00:35 CEST 2023" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="120" runtime="0.0480499" finalOutcome="-" startingAgent="TitForTatAgentTB@56" deadline="60rounds">
+<resultsOfAgent agent="TitForTatAgentTB@56" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgentTB@57" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 17 19:00:35 CEST 2023" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="102" runtime="0.041089099" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap]" startingAgent="TimeDependentAgentBoulware@58" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@58" agentDesc="reluctant to concede" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.7091666666666667" finalUtility="0.7091666666666667" discountedUtility="0.7091666666666667" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgentTB@59" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.9359002430413121" finalUtility="0.9359002430413121" discountedUtility="0.9359002430413121" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 17 19:00:35 CEST 2023" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="103" runtime="0.0383683" finalOutcome="Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap]" startingAgent="TitForTatAgentTB@60" deadline="60rounds">
+<resultsOfAgent agent="TitForTatAgentTB@60" agentDesc="Tit-For-Tat Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="TitForTatAgentTB" userUtility="0.8783333333333334" finalUtility="0.8783333333333334" discountedUtility="0.8783333333333334" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@61" agentDesc="reluctant to concede" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.6900190691355816" finalUtility="0.6900190691355816" discountedUtility="0.6900190691355816" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 17 19:00:35 CEST 2023" timeOfAgreement="0.8032786885245902" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="96" runtime="0.0354942" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap]" startingAgent="TimeDependentAgentBoulware@62" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentBoulware@62" agentDesc="reluctant to concede" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.8150000000000002" finalUtility="0.8150000000000002" discountedUtility="0.8150000000000002" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentBoulware@63" agentDesc="reluctant to concede" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.TimeDependentAgentBoulware" userUtility="0.7376420875390144" finalUtility="0.7376420875390144" discountedUtility="0.7376420875390144" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

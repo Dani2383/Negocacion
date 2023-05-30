@@ -1,0 +1,4 @@
+1,1,0.01639344262295082,TitForTatAgent@0,(Offer  bid:Bid[Laptop: Dell, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+1,2,0.01639344262295082,TimeDependentAgentBoulware@1,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+2,1,0.03278688524590164,TitForTatAgent@0,(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+agreement,Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD],0.725620106089855,1.0

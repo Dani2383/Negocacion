@@ -1,0 +1,4 @@
+1,1,0.01639344262295082,TitForTatAgentTB@12,(Offer  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 20'' LCD])
+1,2,0.01639344262295082,RandomParty@13,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+2,1,0.03278688524590164,TitForTatAgentTB@12,(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 23'' LCD])
+agreement,Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 23'' LCD],0.7927287084745475,0.6443245160860265

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>negotiator.parties.BoulwareNegotiationParty</agentname>
+        <totalUndiscountedUtility>78.3228039344692</totalUndiscountedUtility>
+        <totalDiscountedUtility>78.3228039344692</totalDiscountedUtility>
+        <numberOfSessions>80</numberOfSessions>
+        <totalNashDist>3.0004100568812055</totalNashDist>
+        <totalWelfare>155.98817008475973</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.979035049180865</meanDiscounted>
+        <meanNashDistance>0.03750512571101507</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.979035049180865</meanUndiscounted>
+        <meanWelfare>1.9498521260594965</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>negotiator.parties.ConcederNegotiationParty</agentname>
+        <totalUndiscountedUtility>76.63720746766741</totalUndiscountedUtility>
+        <totalDiscountedUtility>76.63720746766741</totalDiscountedUtility>
+        <numberOfSessions>80</numberOfSessions>
+        <totalNashDist>4.8756663424319635</totalNashDist>
+        <totalWelfare>155.1243708481813</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.9579650933458426</meanDiscounted>
+        <meanNashDistance>0.060945829280399544</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.9579650933458426</meanUndiscounted>
+        <meanWelfare>1.939054635602266</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>agents.BayesianAgent</agentname>
+        <totalUndiscountedUtility>76.50235975032325</totalUndiscountedUtility>
+        <totalDiscountedUtility>76.50235975032325</totalDiscountedUtility>
+        <numberOfSessions>80</numberOfSessions>
+        <totalNashDist>5.025686845276025</totalNashDist>
+        <totalWelfare>155.055266909255</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.9562794968790407</meanDiscounted>
+        <meanNashDistance>0.06282108556595031</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.9562794968790407</meanUndiscounted>
+        <meanWelfare>1.9381908363656877</meanWelfare>
+    </statistics>
+</agentsStatistics>
